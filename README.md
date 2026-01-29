@@ -17,5 +17,5 @@
 </p>
 &nbsp;
 <p align="center">
-  Trader • Developer • Automation • Market Analysis
+  Gamer • Trader • Developer
 </p>
