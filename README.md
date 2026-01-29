@@ -11,4 +11,7 @@
   <a href="https://www.youtube.com/@lenz0" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="display:inline-block;" />
   </a>
+  <a href="https://www.tradingview.com/u/OhhLenzo/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/TradingView-000000?style=for-the-badge&logo=youtube&logoColor=white" style="display:inline-block;" />
+  </a>
 </p>
