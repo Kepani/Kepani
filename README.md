@@ -1,2 +1,14 @@
-# Readme
-Kanaka Maoli
+<p align="center">
+  <a href="https://www.linkedin.com/in/brendan-foster-a83a0a302/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/yourhandle](https://x.com/kanakatradez)">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://stocktwits.com/thetaburna">
+    <img src="https://img.shields.io/badge/Stocktwits-2EBD59?style=for-the-badge&logo=stocktwits&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@lenz0">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
