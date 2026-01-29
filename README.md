@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/brendan-foster-a83a0a302/">
+  <a href="www.linkedin.com/in/brendan-makoa-kepani-foster-a83a0a302">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://x.com/yourhandle](https://x.com/kanakatradez)">
