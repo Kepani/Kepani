@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/brendan-makoa-kepani-foster-a83a0a302/?trk=public-profile-join-page">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://x.com/yourhandle](https://x.com/kanakatradez)">
+  <a href="https://x.com/kanakatradez">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://stocktwits.com/thetaburna">
