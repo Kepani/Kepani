@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/@lenz0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.tradingview.com/u/OhhLenzo/"><img src="https://img.shields.io/badge/TradingView-000000?style=for-the-badge&logo=tradingview&logoColor=white" /></a>
 </p>
-&nbsp;
+<hr>
 <p align="center">
   Gamer • Trader • Developer
 </p>
